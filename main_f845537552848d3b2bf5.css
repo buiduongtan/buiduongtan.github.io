@@ -2907,11 +2907,12 @@
   padding: 10px;
 }
 .category_2f_70 {
+  text-decoration: underline;
   text-transform: uppercase;
-  padding: 10px;
 }
 .category_2f_70 a {
   color: black;
+  padding: 10px;
 }
 .category_2f_70:hover {
   background-color: #1369bf;
