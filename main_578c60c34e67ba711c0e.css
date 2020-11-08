@@ -2850,9 +2850,18 @@
  *   for 4, 3 fiirts 0.75 each 0.75/3, last (1 - 0.75)
  */
 /** RESPONSIVE STYLE */
-.container_3RYpf {
+.background_2z5lr {
+  position: fixed;
+  z-index: 0;
+  width: 100%;
+  height: 100%;
+  left: 0;
+  top: 0;
   background-size: cover;
-  background-attachment: fixed;
+  background-position: center;
+}
+.container_3RYpf {
+  position: relative;
 }
 
 /**
