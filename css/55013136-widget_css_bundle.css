@@ -505,12 +505,7 @@ body {
 .invisible {
   visibility: hidden;
 }
-.container::after,
-.float-container::after {
-  clear: both;
-  content: '';
-  display: table;
-}
+
 .clearboth {
   clear: both;
 }
